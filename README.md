@@ -1,4 +1,4 @@
-# BSidesCTF 2016
+# BSides Canberra CTF 2016
 
 ## Info
 All challenges not listed below were created by Peleus ([@0x42424242](https://twitter.com/0x42424242)) - Feel free to contact me on twitter for questions.
